@@ -16,3 +16,7 @@ se puede notar que aumenta el accuracy y disminuye las medidas de perdida.
 
 Con __CNN__ se entrenaron modelos modificando distinto paramentros estos son epochs, fc_size, filters_count, filter_lenght en 
 el cual se agrego una capa. Igual que el modelo anterior el accuracy disminuye y y las de perdida aumentan.
+
+![Captura de Pantalla 2021-03-24 a la(s) 15 45 57](https://user-images.githubusercontent.com/47707311/112367095-438b3600-8cb8-11eb-9183-23da41ee2feb.png)
+
+
