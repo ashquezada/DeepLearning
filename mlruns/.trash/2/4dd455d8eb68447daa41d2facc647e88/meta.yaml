@@ -1,0 +1,15 @@
+artifact_uri: file:///users/aquezada/AprendizajeProfundo/mlruns/2/4dd455d8eb68447daa41d2facc647e88/artifacts
+end_time: 1616352890211
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: deleted
+name: ''
+run_id: 4dd455d8eb68447daa41d2facc647e88
+run_uuid: 4dd455d8eb68447daa41d2facc647e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616352890172
+status: 4
+tags: []
+user_id: aquezada
